@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1583767614 source:c:\users\muhammad haseeb\desktop\student learning managment\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"Student.h"
+	"Menu.h"
+
+1583767439 c:\users\muhammad haseeb\desktop\student learning managment\student.h
+	<iostream>
+
+1583767799 source:c:\users\muhammad haseeb\desktop\student learning managment\student.cpp
+	"Student.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1583085502 c:\users\muhammad haseeb\desktop\student learning managment\menu.h
+
+1583764465 source:c:\users\muhammad haseeb\desktop\student learning managment\menu.cpp
+	"Menu.h"
+	<conio.h>
+	<iostream>
+	<windows.h>
+
+1583767799 source:e:\new folder (2)\student learning managment\student.cpp
+	"Student.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1583767439 e:\new folder (2)\student learning managment\student.h
+	<iostream>
+
+1588708882 source:e:\new folder (2)\student learning managment\admin.cpp
+	"Admin.h"
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1588708108 e:\new folder (2)\student learning managment\admin.h
+
+1588705015 source:e:\new folder (2)\student learning managment\menu.cpp
+
+1588706540 source:e:\new folder (2)\student learning managment\record.cpp
+	"Record.h"
+	<iostream>
+	<windows.h>
+	<conio.h>
+
+1588708196 e:\new folder (2)\student learning managment\record.h
+	<iostream>
+	<string>
+
+1588708414 source:e:\new folder (2)\student learning managment\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"Record.h"
+	"Admin.h"
+
